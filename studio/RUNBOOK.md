@@ -6,7 +6,7 @@ Diposting ke Instagram @naik_kelas_id (Reels) + Threads @naikkelas_hq lewat Buff
 ## Environment (wajib di-export di setiap command)
 ```
 export HF_HUB_DISABLE_XET=1   # xet CDN HuggingFace diblokir proxy
-export HYPERFRAMES_BROWSER_PATH=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell  # download Chrome diblokir
+export HYPERFRAMES_BROWSER_PATH=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-*/*headless*shell | grep -v '\.' | head -1)  # download Chrome diblokir
 ```
 Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 
@@ -27,3 +27,5 @@ Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 - Decoder PyAV faster-whisper error → transcribe_words.py sudah decode via ffmpeg.
 - `render.sh draft` bisa gagal diam-diam; jalankan `npx hyperframes render` langsung kalau perlu lihat error.
 - Elemen dekat tepi kanan (cap/stamp) sering keluar layar — beri `right:30px`, bukan nilai negatif.
+- Path headless shell sekarang `chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` (export di atas mencarinya otomatis).
+- `pip install` di setup.sh bisa macet tanpa output (-q); kalau >3 menit, kill lalu jalankan ulang tanpa `-q`.
