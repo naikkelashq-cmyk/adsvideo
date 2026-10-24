@@ -29,3 +29,16 @@ Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 - Elemen dekat tepi kanan (cap/stamp) sering keluar layar — beri `right:30px`, bukan nilai negatif.
 - Path headless shell sekarang `chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` (export di atas mencarinya otomatis).
 - `pip install` di setup.sh bisa macet tanpa output (-q); kalau >3 menit, kill lalu jalankan ulang tanpa `-q`.
+
+---
+
+# Carousel Harian (tayang 10:00 WIB)
+
+Carousel IG 4:5 (1080x1350), 7 slide: sampul + teaser, 5 slide poin (kartu "Yang sering terjadi" / "Lakukan ini"), penutup ajakan komentar + simpan/bagikan.
+
+1. Tulis spec JSON (pola: `studio/contoh/carousel_spo.json`; `cover.teaser: true`). Judul poin ≤ 32 karakter, teks kartu ≤ 95 karakter.
+   Format poin boleh divariasikan lewat label kartu di spec bila perlu, tapi struktur JSON tetap.
+2. Render: `python3 studio/carousel.py spec.json out/` (Playwright + Chromium /opt/pw-browsers/chromium). Read tiap slide untuk QC: tidak ada teks terpotong/tumpang tindih/mepet header.
+3. Simpan ke `konten/carousel/YYYY-MM-DD-<slug>-NN.jpg`, tambah baris di `konten/LOG_CAROUSEL.md`, commit & push, cek URL raw status 200.
+4. Buffer: Instagram `6ad5cdc9778b240e2f55b00a` metadata instagram type "post", shouldShareToFeed true, assets = 7 image (urut, altText singkat per slide).
+   Threads `6ad5d2fa778b240e2f55ea40` type "post", assets sama, caption tanpa hashtag. customScheduled dueAt T10:00:00+07:00.
