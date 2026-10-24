@@ -1,0 +1,40 @@
+{
+ "slug": "5-kesalahan-menyusun-spo",
+ "cover": {
+  "kicker": "Edukasi Dokumen RS",
+  "title": "5 Kesalahan Saat <span class='acc'>Menyusun SPO</span>",
+  "sub": "Yang bikin SPO rapi di kertas, tapi repot saat ditelusur.",
+  "teaser": true
+ },
+ "items": [
+  {
+   "title": "Disalin mentah dari RS lain",
+   "bad": "Format bagus, tapi alur, alat, dan stafnya beda dengan kondisi unitmu.",
+   "good": "Pakai sebagai referensi, lalu sesuaikan dengan alur kerja nyata di unitmu."
+  },
+  {
+   "title": "Langkahnya terlalu umum",
+   "bad": "Tertulis “lakukan sesuai prosedur” tanpa urutan yang jelas.",
+   "good": "Tulis langkah yang bisa diamati: siapa, melakukan apa, dan kapan."
+  },
+  {
+   "title": "Tidak pernah dikaji ulang",
+   "bad": "Isinya masih versi lama, padahal alur dan alatnya sudah berubah.",
+   "good": "Tentukan jadwal kaji ulang dan catat riwayat revisinya."
+  },
+  {
+   "title": "Staf tidak tahu isinya",
+   "bad": "SPO disimpan di lemari, staf baru bahkan tidak tahu ada.",
+   "good": "Sosialisasikan, simpan bukti hadir, dan taruh di tempat yang mudah dijangkau."
+  },
+  {
+   "title": "Tidak ada bukti pelaksanaan",
+   "bad": "SPO-nya lengkap, tapi tidak ada catatan bahwa itu dijalankan.",
+   "good": "Pastikan tiap SPO punya formulir atau catatan yang membuktikan pelaksanaannya."
+  }
+ ],
+ "close": {
+  "title": "Mana yang paling sering terjadi <span class='acc'>di unitmu?</span>",
+  "sub": "Tulis nomornya di komentar. Simpan carousel ini untuk cek SPO berikutnya."
+ }
+}
