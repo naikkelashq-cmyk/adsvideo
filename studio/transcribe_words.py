@@ -15,12 +15,20 @@ pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", audio, "-f", "f32le", "-ac"
 samples = np.frombuffer(pcm, dtype=np.float32)
 
 model = WhisperModel(model_size, device="cpu", compute_type="int8")
-segments, _ = model.transcribe(samples, language="id", word_timestamps=True,
-                               initial_prompt=open(naskah_path).read())
-heard = [w for s in segments for w in s.words]
-
 def norm(t): return re.sub(r"[^\w]", "", t.lower())
 script_words = open(naskah_path).read().split()
+
+def listen(prompt):
+    segments, _ = model.transcribe(samples, language="id", word_timestamps=True, initial_prompt=prompt)
+    return [w for s in segments for w in s.words]
+
+# initial_prompt kadang membuat whisper melompati kalimat awal -> coba juga tanpa prompt, pilih yang paling cocok
+def score(h):
+    return SequenceMatcher(a=[norm(w) for w in script_words], b=[norm(w.word) for w in h], autojunk=False).ratio()
+heard = listen(open(naskah_path).read())
+if len(heard) < 0.9 * len(script_words):
+    alt = listen(None)
+    if score(alt) > score(heard): heard = alt
 
 # Sejajarkan kata naskah dengan kata yang didengar whisper
 sm = SequenceMatcher(a=[norm(w) for w in script_words], b=[norm(w.word) for w in heard], autojunk=False)
