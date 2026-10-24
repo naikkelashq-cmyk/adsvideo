@@ -5,7 +5,8 @@ spec = {
   "slug": "...",
   "cover": {"kicker": "...", "title": "... <span class='acc'>...</span>", "sub": "..."},
   "items": [{"title": "...", "bad": "...", "good": "..."}, ...],     # 1 slide per item
-  "close": {"title": "...", "sub": "..."}
+  "close": {"title": "...", "sub": "..."},
+  "bad_label": "✕ Mitos", "good_label": "✓ Fakta"                    # opsional, default "Yang sering terjadi"/"Lakukan ini"
 }
 """
 import json, os, sys, asyncio
@@ -60,6 +61,7 @@ def frame(inner, i, n, swipe=True, cls=""):
 
 def slides(spec):
     items = spec["items"]; n = len(items) + 2; out = []
+    bl = spec.get("bad_label", "✕ Yang sering terjadi"); gl = spec.get("good_label", "✓ Lakukan ini")
     c = spec["cover"]
     out.append(frame(f'<div class="kicker">{c["kicker"]}</div><div class="h1">{c["title"]}</div>'
                      f'<div class="sub">{c.get("sub","")}</div>' +
@@ -67,8 +69,8 @@ def slides(spec):
                       if c.get("teaser") else ""), 1, n, cls="cov" if c.get("teaser") else ""))
     for k, it in enumerate(items):
         out.append(frame(f'<div class="num">{k+1:02d}</div><div class="h2">{it["title"]}</div>'
-                         f'<div class="card bad"><div class="tag">✕ Yang sering terjadi</div><p>{it["bad"]}</p></div>'
-                         f'<div class="card good"><div class="tag">✓ Lakukan ini</div><p>{it["good"]}</p></div>', k + 2, n))
+                         f'<div class="card bad"><div class="tag">{bl}</div><p>{it["bad"]}</p></div>'
+                         f'<div class="card good"><div class="tag">{gl}</div><p>{it["good"]}</p></div>', k + 2, n))
     cl = spec["close"]
     out.append(frame(f'<div class="h1" style="font-size:96px">{cl["title"]}</div><div class="sub">{cl.get("sub","")}</div>'
                      '<div class="pills"><div class="pill a">🔖 Simpan</div><div class="pill b">↗ Bagikan</div></div>', n, n, swipe=False))
