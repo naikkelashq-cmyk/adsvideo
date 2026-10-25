@@ -1,0 +1,36 @@
+Prompt Google Flow — OmniFlash | Kepala Puskesmas ILP "SOP Banyak Versi, Tidak Ada Daftar Induk (versi 2 sequence)" · Video 19 · Sequence 1/2 (Hook + Masalah) — 10s
+
+Scene summary: Fast-paced hook in a Puskesmas head office: the talent, a Puskesmas head, holds three different printed copies of the same SOP and confronts the viewer about which version is valid. PACE: dense, fast-paced UGC ad. Voice-over is continuous with no silent gaps and no pauses between beats; the talent speaks at a quick, natural conversational pace with clear articulation, the way a busy professional talks when short on time. Fill the full 10 seconds with speech; quick natural cuts every 3 seconds.
+
+9:16 vertical, realistic live-action | UGC Native + Product Demo | Natural Handheld | Premium / Clinical-Clean.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image — the same talent already used in the currently running Kepala Puskesmas ILP ads. Keep the exact face, hairstyle or hijab, skin tone, body proportions, and outfit throughout both sequences. Do not add accessories, insignia, badges, or name tags.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Kepala Puskesmas ILP 2026 from the product reference. Not shown in this sequence. Do not redesign, recolour, or rebrand the product, and do not invent printed text on it.
+
+TIMELINE — 10 seconds:
+0-3s · HOOK · medium close-up, talent standing beside the filing cabinet, three loose document sheets fanned in one hand, looks straight at camera.
+VO (ID, verbatim): "Kepala Puskesmas, SOP di Puskesmas Anda sekarang ada berapa versi?"
+Delivery (EN): brisk, direct, slightly urgent.
+
+3-6s · MASALAH · close-up of three printed SOP pages laid side by side on the desk, slightly different layouts, no readable text; voice continues without pause.
+VO (ID, verbatim): "Satu di map loket, satu di laptop TU, satu lagi revisi lama."
+Delivery (EN): quick, flat, listing a known problem.
+
+6-10s · MASALAH · medium shot, talent puts the pages down and turns back to camera, slight frown.
+VO (ID, verbatim): "Ditanya mana yang berlaku saat pembinaan, tidak ada daftar induknya."
+Delivery (EN): fast, firm, ending flat.
+
+Lighting/mood: cool daylight through the window, businesslike and slightly tense, realistic Puskesmas head office with a wooden desk, a steel filing cabinet and a wall board showing the five ILP cluster columns.
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, or promotional graphics. Do not invent product details, claims, prices, testimonials, certifications, or regulatory guarantees. Do not show readable patient data or real staff names.
