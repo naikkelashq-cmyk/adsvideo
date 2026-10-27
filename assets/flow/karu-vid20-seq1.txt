@@ -1,0 +1,36 @@
+Prompt Google Flow — OmniFlash | Kepala Ruangan (Karu) "Indikator Mutu Ruangan Bulan Ini Sudah Direkap?" · Video 20 · Sequence 1/2 (Hook + Masalah) — 10s
+
+Scene summary: Fast-paced hook at a ward nurse station: the talent, a ward head nurse, stands beside the desk holding an open register book and asks the viewer about this month's quality indicator recap. PACE: dense, fast-paced UGC ad. Voice-over is continuous with no silent gaps and no pauses between beats; the talent speaks at a quick, natural conversational pace with clear articulation, the way a busy professional talks when short on time. Fill the full 10 seconds with speech; quick natural cuts every 3 seconds.
+
+9:16 vertical, realistic live-action | UGC Native + Product Demo | Natural Handheld | Premium / Clinical-Clean.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image — the talent from the DNA Character reference. Keep the exact face, hairstyle or hijab, skin tone, body proportions, and outfit throughout both sequences. Do not add accessories, insignia, badges, or name tags.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Kepala Ruangan 2026 from the product reference. Not shown in this sequence. Do not redesign, recolour, or rebrand the product, and do not invent printed text on it.
+
+TIMELINE — 10 seconds:
+0-3s · HOOK · medium close-up, talent standing beside the nurse station desk holding an open hardcover register book, looks straight at camera.
+VO (ID, verbatim): "Karu, data indikator mutu ruangan bulan ini sudah direkap semua?"
+Delivery (EN): brisk, direct, slightly urgent.
+
+3-6s · MASALAH · close-up of the open register book on the desk next to a few loose observation sheets, no readable text; voice continues without pause.
+VO (ID, verbatim): "Sebagian di buku register, sebagian di lembar observasi, sisanya belum dihitung."
+Delivery (EN): quick, flat, listing a known problem.
+
+6-10s · MASALAH · medium shot, talent closes the book and turns back to camera, tired half-smile.
+VO (ID, verbatim): "Dihitung manual tiap akhir bulan, laporan ke Komite Mutu selalu telat."
+Delivery (EN): fast, firm, ending flat.
+
+Lighting/mood: cool daylight, businesslike and slightly tense, realistic hospital ward nurse station, a desk with a laptop, a shelf of ring binders and a wall board with a monthly chart grid behind the desk (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, or promotional graphics. Do not invent product details, claims, prices, testimonials, certifications, or regulatory guarantees. Do not show readable patient data or real staff names.
