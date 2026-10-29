@@ -1,0 +1,37 @@
+Prompt Google Flow — OmniFlash | Akreditasi Puskesmas "Dokumen Bab I–V Bulan Ini Sudah Berapa yang Jadi?" · Video 5 · Sequence 2/2 (Solusi + Hasil + CTA) — 10s
+
+Scene summary: Fast-paced continuation in the same office: the talent at the desk shows neatly organised chapter folders on a laptop, the result, then a quick call to action with the product clearly visible. PACE: dense, fast-paced UGC ad. Voice-over is continuous with no silent gaps and no pauses between beats; the talent speaks at a quick, natural conversational pace with clear articulation, the way a busy professional talks when short on time. Fill the full 10 seconds with speech; quick natural cuts every 3 seconds.
+
+9:16 vertical, realistic live-action | UGC Native + Product Demo | Natural Handheld | Premium / Clinical-Clean.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+Do not use the Sequence 1 last frame as a start frame; start fresh from the DNA references in the same room, seated at the desk.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image — the same talent already used in the currently running Akreditasi Puskesmas ads. Keep the exact face, hairstyle or hijab, skin tone, body proportions, and outfit throughout both sequences. Do not add accessories, insignia, badges, or name tags.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Akreditasi Puskesmas Bab I–V 2026 from the product reference, lying flat on the desk beside the laptop and clearly visible in frame in every beat of this sequence. Keep it still; the talent does not pick it up or move it. Do not redesign, recolour, or rebrand the product, and do not invent printed text on it.
+
+TIMELINE — 10 seconds:
+0-3s · SOLUSI · medium shot, talent seated at the desk, laptop open, product lying flat beside it and clearly visible, the talent points at the screen.
+VO (ID, verbatim): "Pakai seratus sembilan puluh empat dokumen ini, foldernya per bab, formatnya seragam."
+Delivery (EN): quick, upbeat turn.
+
+3-6s · HASIL · over-the-shoulder shot of the laptop screen showing a tidy file explorer with five chapter folders and a spreadsheet register beside it, the product still visible on the desk edge, no readable text; voice continues without pause.
+VO (ID, verbatim): "Tinggal disesuaikan, dokumen tiap kriteria langsung ada, daftar induknya otomatis."
+Delivery (EN): brisk, clear, satisfied.
+
+6-10s · CTA · medium shot, talent turns to camera, hands resting still on the desk, product clearly visible, confident smile.
+VO (ID, verbatim): "Satu paket lengkap untuk tim akreditasi Puskesmas, cek detailnya sekarang!"
+Delivery (EN): fast, warm, energetic close.
+
+Lighting/mood: warmer even light at the desk, composed and confident, the same realistic Puskesmas administration office, a plain desk with a laptop, a cabinet of labelled ring binders (no readable text), and a window with daylight.
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, or promotional graphics. Do not invent product details, claims, prices, testimonials, certifications, or regulatory guarantees. Do not show readable patient data or real staff names.
