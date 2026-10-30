@@ -7,3 +7,4 @@
 | 2026-10-27 | 5-kebiasaan-dipercaya-memimpin | Motivasi | 5 kebiasaan agar dipercaya memimpin (bawa solusi saat lapor masalah, berani usul di rapat, belajar tanpa disuruh, keluhan ke forum yang tepat, ajari junior alih-alih kerjakan sendiri) |
 | 2026-10-28 | catatan-keperawatan-sebelum-sesudah | Edukasi RS | Catatan keperawatan sebelum vs sesudah (tulis kondisi bukan kesan, catat respons, singkatan yang disepakati, tutup dengan identitas & waktu, koreksi tanpa menghapus) |
 | 2026-10-29 | tertusuk-jarum-tanda-bahaya | Edukasi RS | Cegah tertusuk jarum, tanda bahaya vs langkah aman (jangan recapping dua tangan, safety box dekat tindakan, ganti saat garis batas, minta bantuan saat pasien gelisah, cuci & lapor bila tertusuk) |
+| 2026-10-30 | 5-mitos-naik-jabatan-nakes | Motivasi | 5 mitos soal naik jabatan di RS vs fakta (kerja keras pasti dilihat, senioritas menentukan, belajar memimpin nanti saja, yang dekat atasan yang naik, gelar tinggi pasti naik) |
