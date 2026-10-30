@@ -1,0 +1,37 @@
+Prompt Google Flow — OmniFlash | Kepala Puskesmas "Laporan Kinerja Triwulan IV Sudah Siap?" · Video 30 · Sequence 1/2 (Hook–Masalah) — 10s
+
+Scene summary: Fast-paced hook in a Puskesmas head office: the talent, the head of the Puskesmas, stands beside the desk holding five different report folders and asks the viewer whether the fourth-quarter performance report is ready. PACE: dense, fast-paced UGC ad. Voice-over is continuous with no silent gaps and no pauses between beats; the talent speaks at a quick, natural conversational pace with clear articulation, the way a busy professional talks when short on time. Fill the full 10 seconds with speech; quick natural cuts every 3 seconds.
+
+9:16 vertical, realistic live-action | UGC Native + Product Demo | Natural Handheld | Premium / Clinical-Clean.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image — the same talent already used in the currently running Kepala Puskesmas ads. Keep the exact face, hairstyle or hijab, skin tone, body proportions, and outfit throughout both sequences. Do not add accessories, insignia, badges, or name tags.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Kepala Puskesmas ILP 2026 from the product reference. Not shown in this sequence.
+Do not redesign, recolour, or rebrand the product, and do not invent printed text on it.
+
+TIMELINE — 10 seconds:
+0-3s · HOOK · medium close-up, talent standing beside the desk holding a small stack of five differently coloured report folders, looks straight at camera.
+VO (ID, verbatim): "Kapus, laporan kinerja triwulan empat sudah siap dikirim ke Dinkes?"
+Delivery (EN): brisk, direct, slightly urgent.
+
+3-6s · MASALAH · close-up of the five folders spread on the desk, each a different colour and thickness, loose pages sticking out, no readable text; voice continues without pause.
+VO (ID, verbatim): "Data lima klaster formatnya beda-beda, masih di tangan masing-masing PJ."
+Delivery (EN): quick, flat, listing a known problem.
+
+6-10s · MASALAH · medium shot, talent puts the folders down and turns back to camera, tired half-smile.
+VO (ID, verbatim): "Ujungnya laporan disusun mendadak, rekapnya sampai lembur di akhir tahun."
+Delivery (EN): fast, firm, ending flat.
+
+Lighting/mood: soft natural daylight mixed with clean overhead light, calm professional mood, realistic Puskesmas head office: a desk with a laptop, a cabinet of ring binders, a small wall board with a blank five-column grid (no readable text), and a corridor of a community health centre visible through an open door (people blurred).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, or promotional graphics. Do not invent product details, claims, prices, testimonials, certifications, or regulatory guarantees. Do not show readable patient data or real staff names.
