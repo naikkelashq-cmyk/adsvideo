@@ -8,3 +8,4 @@
 | 2026-10-28 | catatan-keperawatan-sebelum-sesudah | Edukasi RS | Catatan keperawatan sebelum vs sesudah (tulis kondisi bukan kesan, catat respons, singkatan yang disepakati, tutup dengan identitas & waktu, koreksi tanpa menghapus) |
 | 2026-10-29 | tertusuk-jarum-tanda-bahaya | Edukasi RS | Cegah tertusuk jarum, tanda bahaya vs langkah aman (jangan recapping dua tangan, safety box dekat tindakan, ganti saat garis batas, minta bantuan saat pasien gelisah, cuci & lapor bila tertusuk) |
 | 2026-10-30 | 5-mitos-naik-jabatan-nakes | Motivasi | 5 mitos soal naik jabatan di RS vs fakta (kerja keras pasti dilihat, senioritas menentukan, belajar memimpin nanti saja, yang dekat atasan yang naik, gelar tinggi pasti naik) |
+| 2026-10-31 | 5-kesalahan-edukasi-pasien-pulang | Edukasi RS | 5 kesalahan saat edukasi pasien pulang, cara lama vs cara lebih jelas (cicil sejak hari pertama, bahasa sehari-hari, libatkan keluarga, minta pasien mengulang, ringkasan tertulis) |

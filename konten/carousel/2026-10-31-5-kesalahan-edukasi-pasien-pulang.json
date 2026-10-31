@@ -1,0 +1,42 @@
+{
+ "slug": "5-kesalahan-edukasi-pasien-pulang",
+ "bad_label": "✕ Cara lama",
+ "good_label": "✓ Cara lebih jelas",
+ "cover": {
+  "kicker": "Edukasi Keperawatan",
+  "title": "5 Kesalahan Saat <span class='acc'>Edukasi Pasien Pulang</span>",
+  "sub": "Kenapa pasien sudah dijelaskan, tapi tetap bingung di rumah.",
+  "teaser": true
+ },
+ "items": [
+  {
+   "title": "Dijelaskan saat mau keluar",
+   "bad": "Semua materi diberikan menit terakhir, saat pasien dan keluarga sibuk berkemas.",
+   "good": "Cicil edukasi sejak hari pertama rawat, sedikit demi sedikit setiap dinas."
+  },
+  {
+   "title": "Pakai istilah medis",
+   "bad": "“Obat ini diminum per oral 3x1 post cibum.” Keluarga mengangguk, padahal bingung.",
+   "good": "Pakai bahasa sehari-hari: “Diminum 3 kali sehari, sesudah makan.”"
+  },
+  {
+   "title": "Hanya ke pasiennya",
+   "bad": "Pasien masih lemah dan lupa, sementara yang merawat di rumah tidak ikut dengar.",
+   "good": "Libatkan keluarga atau pendamping yang akan merawat pasien di rumah."
+  },
+  {
+   "title": "Tidak dicek pemahamannya",
+   "bad": "Ditutup dengan “Sudah paham, ya?” lalu dianggap selesai.",
+   "good": "Minta pasien atau keluarga mengulang dengan kata-kata mereka sendiri."
+  },
+  {
+   "title": "Tanpa catatan tertulis",
+   "bad": "Semua disampaikan lisan, sampai rumah jadwal obat dan kontrol terlupa.",
+   "good": "Beri ringkasan tertulis: obat, tanda bahaya, jadwal kontrol, nomor yang bisa dihubungi."
+  }
+ ],
+ "close": {
+  "title": "Bagian mana yang paling sering <span class='acc'>terlewat di ruanganmu?</span>",
+  "sub": "Tulis nomornya di komentar. Simpan carousel ini untuk briefing tim berikutnya."
+ }
+}
