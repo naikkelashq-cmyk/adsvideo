@@ -6,7 +6,7 @@ Scene summary: Continuation: the team lead, calm and ready, shows the result and
 
 REFERENCE PRIORITY:
 Use the same DNA Character and DNA Product references from Sequence 1 as the identity authorities.
-Use Sequence 2 last frame only for position, lighting, and mood continuity if it is visually correct.
+Do not use the Sequence 2 last frame as a start frame; start fresh from the DNA references in the same setting.
 
 CHARACTER LOCK:
 Exact same talent as the DNA Character reference image (the hospital accreditation team lead talent used in the existing Akreditasi RS video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
@@ -16,16 +16,16 @@ Exact Paket Dokumen Inti Akreditasi Rumah Sakit STARKES 2026 from the product re
 
 TIMELINE — 10 seconds:
 0–2s Result · medium close-up, talent seated upright at the table, calm confident expression.
-VO (ID, verbatim): "Ditanya surveior, langsung tunjuk buktinya."
+VO (ID, verbatim): "Sekarang tiap standar ada buktinya."
 Delivery (EN): calm, confident
-2–4s Result · medium shot, talent taps the product box on the table.
-VO (ID, verbatim): "Pokja kerja dari format yang sama."
+2–4s Result · medium shot, the product box rests still on the table in front of the seated talent, her hands resting calmly.
+VO (ID, verbatim): "Semua pokja pakai format yang sama."
 Delivery (EN): calm, confident
-4–6s Value · talent holds the product box beside her body, 3/4 angle.
+4–6s Value · same framing, talent seated behind the product box resting on the table, 3/4 angle.
 VO (ID, verbatim): "Ratusan file, tinggal diedit."
 Delivery (EN): calm, confident
 6–8s Urgency · medium close-up, direct to camera, leaning slightly forward.
-VO (ID, verbatim): "Jangan tunggu surveior datang dulu."
+VO (ID, verbatim): "Jangan tunggu jadwal survei mepet."
 Delivery (EN): calm, gently firm
 8–10s CTA · talent and the product clearly visible together, eye contact, small nod.
 VO (ID, verbatim): "Klik tombol di bawah, ambil paketnya sekarang."
