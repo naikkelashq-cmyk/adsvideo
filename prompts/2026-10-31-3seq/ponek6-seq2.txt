@@ -1,0 +1,41 @@
+5. Prompt Google Flow — OmniFlash | Tim PONEK Video 6 (Curiosity — "SC Emergensi Bulan Ini Berapa Menit?") · Sequence 2/3 (SOLUSI & DEMO PRODUK) — 10s
+
+Scene summary: Continuation: the team member reveals the package and demos the Kode PONEK guide, the automatic DII register and the indicator dashboard.
+
+9:16 vertical, realistic live-action | Primary Video Type: UGC Native + Supporting Format: Product Demo | Natural Handheld | Premium / Elegant.
+
+REFERENCE PRIORITY:
+Use the same DNA Character and DNA Product references from Sequence 1 as the identity authorities.
+Use Sequence 1 last frame only for position, lighting, and mood continuity if it is visually correct.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image (the hospital nurse talent used in the existing Naik Kelas HQ hospital video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Tim PONEK Rumah Sakit 2026 from the product reference: a dark navy blue book-style box with a white and teal-green title, a photo of a nurse in navy scrubs holding a tablet, a yellow-orange accent and a teal bottom band on the front, plus printed sheets fanned beside it (a contents checklist page, a decree cover page, a 'Panduan Kode PONEK & SC Emergensi' booklet, a dashboard indicator printout, an Excel template printout), plus a laptop screen showing the package's Excel tools (Dashboard Indikator PONEK table with a blue bar chart). Preserve exact product proportions, packaging appearance, navy/teal/yellow cover colors, label areas, and visible design details. Do not redesign, simplify, or rebrand the product.
+
+TIMELINE — 10 seconds:
+0–2s Product reveal · the product box and its components slide into frame on the desk, talent rests one hand on top of the box.
+VO (ID, verbatim): "Sejak pakai paket ini, ceritanya beda."
+Delivery (EN): calm, relieved, warm
+2–4s Product demo · close-up top-down, talent's hand opens the 'Panduan Kode PONEK & SC Emergensi' booklet.
+VO (ID, verbatim): "Panduan Kode PONEK, alurnya jelas."
+Delivery (EN): calm, clear, explaining while showing
+4–6s Product demo · slow pan to the laptop showing the Excel register table.
+VO (ID, verbatim): "Register DII menghitung menitnya otomatis."
+Delivery (EN): calm, clear, explaining while showing
+6–8s Product demo · transition to the Dashboard Indikator PONEK blue bar chart, talent points at the screen.
+VO (ID, verbatim): "Dashboard indikator langsung siap dilaporkan."
+Delivery (EN): calm, clear, explaining while showing
+8–10s Product detail · rack focus from the product box to the laptop beside it.
+VO: none.
+
+Lighting/mood: controlled cinematic lighting, clean soft contrast, premium professional atmosphere, realistic small meeting room next to a hospital maternity delivery ward, with a desk, a shelf of binders and a glass window to a clean corridor (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, generated text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, storyboard panels, or promotional graphics.
+Do not invent product details, claims, prices, ratings, testimonials, certifications, or medical/regulatory guarantees.
+Keep exact talent, outfit, product shape, colors, packaging, box cover and printed sheets, laptop screen content, and visual details consistent with the DNA references.

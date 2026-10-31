@@ -1,0 +1,41 @@
+1. Prompt Google Flow — OmniFlash | Kepala Ruangan Video 41 (Pain/Fear — "Supervisi Bulan Ini Ada Catatannya?") · Sequence 1/3 (HOOK & MASALAH) — 10s
+
+Scene summary: UGC hook at a ward nurse station: the head nurse asks how many nurses were supervised this month with notes, and admits there is no data. The product does not appear.
+
+9:16 vertical, realistic live-action | Primary Video Type: UGC Native + Supporting Format: Product Demo | Natural Handheld | Premium / Elegant.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image (the ward head nurse talent used in the existing Kepala Ruangan video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Kepala Ruangan 2026 from the product reference: a white and dark blue book-style box with a green '2026' and a hospital ward photo on the front, three ring binders standing side by side (blue binder labelled SPO, green binder labelled Jadwal Dinas, yellow binder labelled Mutu, white spine labels), printed booklets (Panduan Pelayanan, Uraian Tugas, Instrumen Supervisi & Audit), plus a laptop screen showing the package's Excel tools (Jadwal Dinas Otomatis colour-coded roster and Dashboard Indikator Mutu bar charts). Preserve exact product proportions, packaging appearance, blue/green/yellow binder colors, label areas, and visible design details. Do not redesign, simplify, or rebrand the product.
+
+TIMELINE — 10 seconds:
+0–2s Hook · slow push-in, medium close-up eye-level, talent seated at the nurse station desk, direct to camera.
+VO (ID, verbatim): "Karu, bulan ini sudah berapa perawat…"
+Delivery (EN): calm, direct, slightly concerned, natural Indonesian conversational tone
+2–4s Problem · medium shot, talent picks up a loose handwritten checklist sheet (no readable text).
+VO (ID, verbatim): "…yang disupervisi dan ada catatannya?"
+Delivery (EN): calm, matter-of-fact, slightly tired
+4–6s Problem · medium close-up, talent looks at camera, holding the crumpled sheet.
+VO (ID, verbatim): "Ceklisnya di kertas, entah ke mana."
+Delivery (EN): calm, matter-of-fact, slightly tired
+6–8s Problem · talent closes a thin, nearly empty folder and puts it down.
+VO (ID, verbatim): "Ditanya bidang, ternyata nggak ada datanya."
+Delivery (EN): calm, quiet realisation
+8–10s Beat · medium shot, talent among scattered papers at the nurse station, short glance to camera.
+VO: none.
+
+Lighting/mood: controlled cinematic lighting, clean soft contrast, premium professional atmosphere, realistic hospital ward nurse station with a desk, a shelf of ring binders and a wall board with a blank monthly grid (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, generated text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, storyboard panels, or promotional graphics.
+Do not invent product details, claims, prices, ratings, testimonials, certifications, or medical/regulatory guarantees.
+Keep exact talent, outfit, product shape, colors, packaging, binder colors and spine labels, laptop screen content, and visual details consistent with the DNA references.

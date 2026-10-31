@@ -1,0 +1,41 @@
+1. Prompt Google Flow — OmniFlash | Tim PONEK Video 5 (Pain/Fear — "Pedoman PONEK Masih Versi Lama?") · Sequence 1/3 (HOOK & MASALAH) — 10s
+
+Scene summary: UGC hook in a meeting room next to the maternity ward: the PONEK team member asks if the PONEK guideline is still the old version citing revoked regulations. The product does not appear.
+
+9:16 vertical, realistic live-action | Primary Video Type: UGC Native + Supporting Format: Product Demo | Natural Handheld | Premium / Elegant.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image (the hospital nurse talent used in the existing Naik Kelas HQ hospital video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Tim PONEK Rumah Sakit 2026 from the product reference: a dark navy blue book-style box with a white and teal-green title, a photo of a nurse in navy scrubs holding a tablet, a yellow-orange accent and a teal bottom band on the front, plus printed sheets fanned beside it (a contents checklist page, a decree cover page, a 'Panduan Kode PONEK & SC Emergensi' booklet, a dashboard indicator printout, an Excel template printout), plus a laptop screen showing the package's Excel tools (Dashboard Indikator PONEK table with a blue bar chart). Preserve exact product proportions, packaging appearance, navy/teal/yellow cover colors, label areas, and visible design details. Do not redesign, simplify, or rebrand the product.
+
+TIMELINE — 10 seconds:
+0–2s Hook · slow push-in, medium close-up eye-level, talent standing by the desk in the meeting room, direct to camera.
+VO (ID, verbatim): "Tim PONEK, pedomanmu masih versi lama?"
+Delivery (EN): calm, direct, slightly concerned, natural Indonesian conversational tone
+2–4s Problem · medium shot, talent pulls an old yellowed document from a binder (no readable text).
+VO (ID, verbatim): "Konsiderans masih mengutip aturan yang dicabut."
+Delivery (EN): calm, matter-of-fact, slightly tired
+4–6s Problem · medium close-up, talent looks at camera holding the old document.
+VO (ID, verbatim): "Padahal sekarang sudah ada KMK baru…"
+Delivery (EN): calm, matter-of-fact, slightly tired
+6–8s Problem · talent closes the old binder and sets it aside.
+VO (ID, verbatim): "…dan dokumen kita belum disesuaikan."
+Delivery (EN): calm, quiet realisation
+8–10s Beat · medium shot, talent among old binders on the desk, short glance to camera.
+VO: none.
+
+Lighting/mood: controlled cinematic lighting, clean soft contrast, premium professional atmosphere, realistic small meeting room next to a hospital maternity delivery ward, with a desk, a shelf of binders and a glass window to a clean corridor (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, generated text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, storyboard panels, or promotional graphics.
+Do not invent product details, claims, prices, ratings, testimonials, certifications, or medical/regulatory guarantees.
+Keep exact talent, outfit, product shape, colors, packaging, box cover and printed sheets, laptop screen content, and visual details consistent with the DNA references.

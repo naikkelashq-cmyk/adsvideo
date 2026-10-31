@@ -1,0 +1,41 @@
+1. Prompt Google Flow — OmniFlash | Akreditasi RS Video 12 (Pain/Fear — "Surveior Minta Bukti, Pokja Saling Tunjuk") · Sequence 1/3 (HOOK & MASALAH) — 10s
+
+Scene summary: UGC hook in a hospital accreditation meeting room: the team lead admits that when surveyors ask for evidence, the working groups point at each other and documents are scattered. The product does not appear.
+
+9:16 vertical, realistic live-action | Primary Video Type: UGC Native + Supporting Format: Product Demo | Natural Handheld | Premium / Elegant.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image (the hospital accreditation team lead talent used in the existing Akreditasi RS video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Akreditasi Rumah Sakit STARKES 2026 from the product reference: a dark navy blue book-style box with a white and teal-green title and a modern hospital building photo on the front, a fanned row of thin colourful chapter booklets (blue, purple, green, yellow, teal) with chapter labels, a few printed document sheets, plus a laptop screen showing the package's Excel accreditation readiness dashboard (green ring chart and per-chapter progress bars). Preserve exact product proportions, packaging appearance, chapter booklet colors, label areas, and visible design details. Do not redesign, simplify, or rebrand the product.
+
+TIMELINE — 10 seconds:
+0–2s Hook · slow push-in, medium close-up eye-level, talent standing at the meeting table, direct to camera.
+VO (ID, verbatim): "Surveior minta bukti, pokja saling tunjuk."
+Delivery (EN): calm, direct, slightly concerned, natural Indonesian conversational tone
+2–4s Problem · medium shot, talent pulls a loose sheet from a pile of mismatched ring binders (no readable text).
+VO (ID, verbatim): "Dokumennya ada, tapi entah di mana."
+Delivery (EN): calm, matter-of-fact, slightly tired
+4–6s Problem · medium close-up, talent holds two binders of different colours side by side, looks at camera.
+VO (ID, verbatim): "Format tiap pokja beda-beda…"
+Delivery (EN): calm, matter-of-fact, slightly tired
+6–8s Problem · talent closes a thin, nearly empty binder and sets it down on the table.
+VO (ID, verbatim): "…ternyata standarnya belum ada buktinya."
+Delivery (EN): calm, quiet realisation
+8–10s Beat · medium shot, talent among scattered papers at the table, short glance to camera.
+VO: none.
+
+Lighting/mood: controlled cinematic lighting, clean soft contrast, premium professional atmosphere, realistic hospital accreditation team meeting room with a long table, ring binders on a shelf and a blank whiteboard (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, generated text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, storyboard panels, or promotional graphics.
+Do not invent product details, claims, prices, ratings, testimonials, certifications, or medical/regulatory guarantees.
+Keep exact talent, outfit, product shape, colors, packaging, box cover, chapter booklet colors, laptop screen content, and visual details consistent with the DNA references.
