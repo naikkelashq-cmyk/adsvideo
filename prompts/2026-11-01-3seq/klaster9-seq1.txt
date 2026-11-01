@@ -1,0 +1,41 @@
+1. Prompt Google Flow — OmniFlash | Klaster ILP Video 9 (Curiosity — "SOP Klaster Bulan Ini Sudah Dicek?") · Sequence 1/3 (HOOK & MASALAH) — 10s
+
+Scene summary: UGC curiosity hook in a puskesmas office: the team member asks how many cluster SOPs were checked for compliance this month; there is no recap. The product does not appear.
+
+9:16 vertical, realistic live-action | Primary Video Type: UGC Native + Supporting Format: Product Demo | Natural Handheld | Premium / Elegant.
+
+REFERENCE PRIORITY:
+Use DNA Character as the authority for the exact talent identity and outfit.
+Use DNA Product as the authority for the exact product identity.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image (the community health centre (puskesmas) team talent used in the existing Klaster ILP video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti SK & SOP 5 Klaster ILP Puskesmas 2026 from the product reference: a white and navy book-style box with a navy and teal title, a yellow '5 Klaster ILP' band and a puskesmas building photo with health workers on the front, a row of colourful cluster booklets (navy, green, purple, orange, teal), printed guide and checklist booklets, plus a laptop screen showing the package's Excel Dashboard Kepatuhan SOP ILP with coloured bar charts. Preserve exact product proportions, packaging appearance, cluster booklet colors, label areas, and visible design details. Do not redesign, simplify, or rebrand the product.
+
+TIMELINE — 10 seconds:
+0–2s Hook · slow push-in, medium close-up eye-level, talent seated at the desk, direct to camera.
+VO (ID, verbatim): "Bulan ini, berapa SOP klaster…"
+Delivery (EN): calm, direct, slightly concerned, natural Indonesian conversational tone
+2–4s Problem · medium shot, talent picks up a loose handwritten sheet (no readable text).
+VO (ID, verbatim): "…yang sudah dicek kepatuhannya?"
+Delivery (EN): calm, matter-of-fact, slightly tired
+4–6s Problem · medium close-up, talent looks at camera holding the sheet.
+VO (ID, verbatim): "Tiap PJ klaster pegang format sendiri."
+Delivery (EN): calm, matter-of-fact, slightly tired
+6–8s Problem · talent closes a thin, nearly empty folder and sets it down.
+VO (ID, verbatim): "Ditanya pendamping, ternyata nggak ada rekapnya."
+Delivery (EN): calm, quiet realisation
+8–10s Beat · medium shot, talent among scattered papers on the desk, short glance to camera.
+VO: none.
+
+Lighting/mood: controlled cinematic lighting, clean soft contrast, premium professional atmosphere, realistic puskesmas office with a desk, a shelf of binders and a window to the puskesmas courtyard (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, generated text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, storyboard panels, or promotional graphics.
+Do not invent product details, claims, prices, ratings, testimonials, certifications, or medical/regulatory guarantees.
+Keep exact talent, outfit, product shape, colors, packaging, box cover and cluster booklet colors, laptop screen content, and visual details consistent with the DNA references.
