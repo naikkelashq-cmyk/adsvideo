@@ -12,3 +12,4 @@
 | 2026-10-29 | 3-cara-supervisi-tanpa-tegang | Edukasi RS | 3 cara supervisi ruangan tanpa bikin staf tegang (datang untuk membantu & buka dengan tanya kendala, fokus satu hal per kunjungan, umpan balik hari itu juga: 1 pujian spesifik + 1 perbaikan) |
 | 2026-10-30 | 3-kebiasaan-awal-dinas | Motivasi | 3 kebiasaan 10 menit pertama dinas (datang lebih awal tanpa tergesa, baca catatan pasien & tanya tim sebelumnya, tulis 3 prioritas di kertas kecil) |
 | 2026-10-31 | 3-cara-laporan-bulanan-dibaca | Edukasi RS | 3 cara laporan bulanan unit dibaca atasan (kesimpulan di paling atas, ganti paragraf panjang dengan tabel/grafik, tiap masalah disertai usulan solusi + penanggung jawab) |
+| 2026-11-01 | 3-celah-kebersihan-tangan | Edukasi RS | 3 celah kebersihan tangan (sarung tangan bukan pengganti: bersihkan sebelum pakai & sesudah lepas, lepas cincin & jam tangan sebelum dinas, bersihkan lagi setelah menyentuh lingkungan pasien seperti rel tempat tidur) |
