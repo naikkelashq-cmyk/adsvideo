@@ -1,0 +1,42 @@
+3. Prompt Google Flow — OmniFlash | Kepala Puskesmas Video 36 (Result — "Hasil & Ajakan") · Sequence 3/3 (HASIL & AJAKAN BELI) — 10s
+
+Scene summary: Continuation (single calm framing, product resting on the desk): the head of puskesmas shows cluster reports now share one format and invites viewers to get the package.
+
+9:16 vertical, realistic live-action | Primary Video Type: UGC Native + Supporting Format: Product Demo | Natural Handheld | Premium / Elegant.
+
+REFERENCE PRIORITY:
+Use the same DNA Character and DNA Product references from Sequence 1 as the identity authorities.
+Do not use the Sequence 2 last frame as a start frame; start fresh from the DNA references in the same setting.
+
+CHARACTER LOCK:
+Exact same talent as the DNA Character reference image (the head of community health centre (Kepala Puskesmas) talent used in the existing Kepala Puskesmas video ads). Keep the exact face shape, jawline, skin tone, eye shape, eyebrows, hijab color and style, body proportions, distinguishing features, and outfit exactly as shown in the reference. Do not add accessories, name tags, or outfit details that are not in the reference. Keep the exact same face, hijab, skin tone, body proportions, and outfit throughout the sequence.
+
+PRODUCT LOCK:
+Exact Paket Dokumen Inti Kepala Puskesmas ILP 2026 from the product reference: a navy blue book-style box with a white and teal title, a yellow '40 dokumen + 3 alat Excel' badge and a puskesmas building photo with a female head of puskesmas in a khaki uniform on the front, printed document sheets fanned in front (an organisation chart decree page, an SOP page, a quarterly performance report page, a quality policy page), plus a laptop screen showing the package's Excel performance table with blue bar charts. Preserve exact product proportions, packaging appearance, navy/teal/yellow cover colors, label areas, and visible design details. Do not redesign, simplify, or rebrand the product.
+
+TIMELINE — 10 seconds:
+0–2s Result · medium close-up, talent seated upright, calm confident expression.
+VO (ID, verbatim): "Sekarang Kapus nggak rekap sendirian."
+Delivery (EN): calm, confident
+2–4s Result · medium shot, the product box rests still on the desk in front of the seated talent, her hands resting calmly.
+VO (ID, verbatim): "Semua PJ klaster pakai template sama."
+Delivery (EN): calm, confident
+4–6s Value · same framing, talent seated behind the product box resting on the desk, 3/4 angle.
+VO (ID, verbatim): "File Word dan Excel siap diedit."
+Delivery (EN): calm, confident
+6–8s Urgency · medium close-up, direct to camera, leaning slightly forward.
+VO (ID, verbatim): "Mulai rapikan laporan bulan ini."
+Delivery (EN): calm, gently firm
+8–10s CTA · talent and the product clearly visible together, eye contact, small nod.
+VO (ID, verbatim): "Klik tombolnya, ambil paketnya hari ini."
+Delivery (EN): warm, inviting, clear
+
+Lighting/mood: controlled cinematic lighting, clean soft contrast, premium professional atmosphere, realistic puskesmas head office with a desk, a shelf of binders and a window to the puskesmas courtyard (no readable text).
+Camera: subtle handheld smartphone movement, stable and restrained. Keep product readable.
+Performance: natural facial expression, believable professional UGC, natural eye contact, restrained gestures, no exaggerated acting.
+Hand safety: simple natural hand movements, no complex finger interaction.
+
+CLEAN OUTPUT:
+No subtitles, captions, generated text overlays, CTA buttons, price, discount badge, rating, fake UI, watermark, poster layout, storyboard panels, or promotional graphics.
+Do not invent product details, claims, prices, ratings, testimonials, certifications, or medical/regulatory guarantees.
+Keep exact talent, outfit, product shape, colors, packaging, box cover and printed sheets, laptop screen content, and visual details consistent with the DNA references.
