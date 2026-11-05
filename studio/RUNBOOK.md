@@ -28,6 +28,7 @@ Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 - `render.sh draft` bisa gagal diam-diam; jalankan `npx hyperframes render` langsung kalau perlu lihat error.
 - Elemen dekat tepi kanan (cap/stamp) sering keluar layar — beri `right:30px`, bukan nilai negatif.
 - Path headless shell sekarang `chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` (export di atas mencarinya otomatis).
+- Class CSS bernama `.row` (dan `className` yang diganti via GSAP) bisa tidak berlaku saat render → teks jadi kecil. Pakai nama class unik atau style inline; untuk efek "terpilih" pakai `tl.to(color/borderColor/opacity)`.
 - `pip install` di setup.sh bisa macet tanpa output (-q); kalau >3 menit, kill lalu jalankan ulang tanpa `-q`.
 
 ---
