@@ -9,7 +9,7 @@ naskah, out = sys.argv[1], sys.argv[2]
 voice = sys.argv[3] if len(sys.argv) > 3 else "Charon"          # Informative; coba juga Puck / Kore / Sadaltager
 style = sys.argv[4] if len(sys.argv) > 4 else "energik, santai, seperti kreator konten Indonesia"
 
-client = genai.Client()  # baca GEMINI_API_KEY dari environment
+client = genai.Client(http_options={"api_version": "v1beta"})  # v1beta wajib: google-genai 3.x default ke v1 (TTS 404)
 interaction = client.interactions.create(
     model="gemini-3.8-flash-tts",                                  # lebih murah: gemini-3.8-flash-lite-tts
     input=[{
