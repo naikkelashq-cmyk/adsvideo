@@ -1,0 +1,42 @@
+{
+ "slug": "5-mitos-luka-tekan",
+ "bad_label": "✕ Mitos",
+ "good_label": "✓ Fakta",
+ "cover": {
+  "kicker": "Edukasi Keselamatan Pasien",
+  "title": "5 Mitos Soal <span class='acc'>Luka Tekan</span> di Ruangan",
+  "sub": "Kebiasaan kecil yang diam-diam bikin kulit pasien rusak.",
+  "teaser": true
+ },
+ "items": [
+  {
+   "title": "Cuma terjadi pada lansia",
+   "bad": "Pasien muda dianggap aman, jadi risikonya tidak dinilai.",
+   "good": "Siapa pun yang lama berbaring atau duduk berisiko. Nilai sejak pasien masuk."
+  },
+  {
+   "title": "Kulit merah dipijat saja",
+   "bad": "Area merah di tonjolan tulang dipijat supaya “darahnya lancar”.",
+   "good": "Jangan pijat area merah. Kurangi tekanannya: ubah posisi dan pakai bantalan."
+  },
+  {
+   "title": "Ada kasur angin, aman",
+   "bad": "Pasien sudah di kasur angin, jadi jadwal ubah posisi dilewati.",
+   "good": "Kasur angin membantu, bukan pengganti. Tetap ubah posisi dan cek kulit terjadwal."
+  },
+  {
+   "title": "Kulit lembap tidak masalah",
+   "bad": "Alas basah keringat atau ngompol dibiarkan sampai jadwal ganti berikutnya.",
+   "good": "Kulit lembap lebih mudah rusak. Segera bersihkan, keringkan, lalu ganti alasnya."
+  },
+  {
+   "title": "Merah kecil, abaikan saja",
+   "bad": "Kemerahan kecil dianggap biasa, baru dicatat kalau sudah lecet.",
+   "good": "Merah yang tak memudar saat ditekan bisa tanda awal. Catat dan laporkan segera."
+  }
+ ],
+ "close": {
+  "title": "Mitos mana yang masih sering <span class='acc'>kamu temui?</span>",
+  "sub": "Tulis nomornya di komentar. Simpan carousel ini untuk briefing tim berikutnya."
+ }
+}
