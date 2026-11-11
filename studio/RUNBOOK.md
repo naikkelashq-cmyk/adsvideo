@@ -30,6 +30,7 @@ Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 - Path headless shell sekarang `chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` (export di atas mencarinya otomatis).
 - Class CSS bernama `.row` (dan `className` yang diganti via GSAP) bisa tidak berlaku saat render → teks jadi kecil. Pakai nama class unik atau style inline; untuk efek "terpilih" pakai `tl.to(color/borderColor/opacity)`.
 - google-genai 3.x default ke API v1 → TTS 404 "model not found". `tts_gemini.py` sudah memakai `http_options={"api_version":"v1beta"}`.
+- Caption Threads maks 500 karakter (Buffer menolak) → pakai versi ringkas, bukan caption IG penuh tanpa hashtag.
 - `pip install` di setup.sh bisa macet tanpa output (-q); kalau >3 menit, kill lalu jalankan ulang tanpa `-q`.
 
 ---
