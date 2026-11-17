@@ -26,7 +26,7 @@ def listen(prompt):
 def score(h):
     return SequenceMatcher(a=[norm(w) for w in script_words], b=[norm(w.word) for w in h], autojunk=False).ratio()
 heard = listen(open(naskah_path).read())
-if len(heard) < 0.9 * len(script_words):
+if True:  # selalu bandingkan dengan/tanpa prompt (prompt bisa bikin awal audio terlewat walau jumlah kata cukup)
     alt = listen(None)
     if score(alt) > score(heard): heard = alt
 

@@ -32,6 +32,7 @@ Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 - google-genai 3.x default ke API v1 → TTS 404 "model not found". `tts_gemini.py` sudah memakai `http_options={"api_version":"v1beta"}`.
 - Caption Threads maks 500 karakter (Buffer menolak) → pakai versi ringkas, bukan caption IG penuh tanpa hashtag.
 - `pip install` di setup.sh bisa macet tanpa output (-q); kalau >3 menit, kill lalu jalankan ulang tanpa `-q`.
+- Whisper dengan initial_prompt bisa menumpuk 10+ kata awal di satu timestamp (mis. semua @8.76) walau "matched" penuh → cek sebaran timestamp; transcribe_words.py kini selalu membandingkan hasil dengan/tanpa prompt.
 
 ---
 
