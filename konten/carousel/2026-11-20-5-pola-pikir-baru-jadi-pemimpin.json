@@ -1,0 +1,32 @@
+{
+ "slug": "5-pola-pikir-baru-jadi-pemimpin",
+ "bad_label": "✕ Pola pelaksana",
+ "good_label": "✓ Pola pemimpin",
+ "cover": {
+  "kicker": "Naik Kelas · Kepemimpinan",
+  "title": "Baru Dipercaya Memimpin? Ganti <span class='acc'>5 Pola Pikir</span> Ini",
+  "sub": "Yang bikin kamu jago sebagai pelaksana belum tentu cukup saat memimpin tim.",
+  "teaser": true
+ },
+ "items": [
+  {"title": "Semua dikerjakan sendiri",
+   "bad": "Merasa lebih cepat kalau dikerjakan sendiri, akhirnya kewalahan dan tim tidak berkembang.",
+   "good": "Bagi tugas sesuai kemampuan, dampingi di awal, lalu percayakan sampai tuntas."},
+  {"title": "Ingin disukai semua orang",
+   "bad": "Sungkan menegur rekan yang dulu selevel, masalah kecil dibiarkan menumpuk.",
+   "good": "Tegur perilakunya, bukan orangnya: empat mata, spesifik, sertakan harapanmu."},
+  {"title": "Sibuk memadamkan api",
+   "bad": "Habis waktu untuk masalah harian, tidak sempat melihat pola yang terus berulang.",
+   "good": "Sisihkan waktu tiap minggu untuk melihat masalah berulang dan rencana perbaikannya."},
+  {"title": "Selalu jadi tempat jawaban",
+   "bad": "Tim menunggu keputusanmu untuk hal kecil, tanpamu ruangan seperti berhenti.",
+   "good": "Balik bertanya “menurutmu bagaimana?” agar tim terbiasa berpikir dan memutuskan."},
+  {"title": "Menyimpan kendala sendiri",
+   "bad": "Takut dianggap tidak mampu, kendala unit tidak pernah disampaikan ke atasan.",
+   "good": "Lapor lebih awal dengan data singkat dan usulan, lalu minta dukungan yang perlu."}
+ ],
+ "close": {
+  "title": "Pola mana yang paling sulit <span class='acc'>kamu ubah?</span>",
+  "sub": "Tulis nomornya di komentar. Simpan & bagikan ke rekan yang baru dipercaya memimpin."
+ }
+}
