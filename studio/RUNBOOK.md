@@ -33,6 +33,7 @@ Cek path headless_shell dengan `ls /opt/pw-browsers/` kalau versinya berubah.
 - Caption Threads maks 500 karakter (Buffer menolak) → pakai versi ringkas, bukan caption IG penuh tanpa hashtag.
 - `pip install` di setup.sh bisa macet tanpa output (-q); kalau >3 menit, kill lalu jalankan ulang tanpa `-q`.
 - Whisper dengan initial_prompt bisa menumpuk 10+ kata awal di satu timestamp (mis. semua @8.76) walau "matched" penuh → cek sebaran timestamp; transcribe_words.py kini selalu membandingkan hasil dengan/tanpa prompt.
+- ID elemen bentrok dengan ID bawaan: `#w0..#wN` dipakai caption karaoke dan `#p1/#p2` sering dipakai pill CTA → elemen jadi kecil/hilang. Pakai prefiks unik per scene (mis. `#pp1`, `#sw1`).
 
 ---
 
